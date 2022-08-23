@@ -1,0 +1,13 @@
+package com.godoro.inheritance;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		Customer customer = new Customer(481,"Neset","Ertas",3450);
+
+		Person person=new Customer(402,"Mahsuni","Serif",6540);
+
+	
+	}
+
+}

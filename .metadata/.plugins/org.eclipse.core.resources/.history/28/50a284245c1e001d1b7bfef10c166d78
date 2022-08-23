@@ -1,0 +1,19 @@
+package com.godoro.collections;
+
+import com.godoro.inventory.Product;
+
+public class ProductsTest {
+	public static void main(String[] args) {
+	Product[] products= {
+			new Product(501,"Cep Telefonu",1300.0),
+			new Product(502,"Masaustu Bilgisayar",6540.0),
+			new Product(503,"Dizustu Bilgisayar",7865.0)
+	};
+		
+	for (Product product : products) {
+		System.out.println(product.getProductId()+" "
+				+product.getProductName()+" "
+				+product.getSalesPrice());
+	}
+	}
+}

@@ -1,0 +1,9 @@
+package com.godoro.interfaces;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		Piegon piegon=new Piegon("Pacali");
+	}
+}

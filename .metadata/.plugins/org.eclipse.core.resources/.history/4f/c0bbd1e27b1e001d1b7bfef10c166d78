@@ -1,0 +1,12 @@
+package com.godoro.sports;
+
+
+public class Player {
+	
+	private long playerId;
+	private String playerName;
+	private double averageScore;
+	
+	private Team team; //constructor a koymuyoruz
+
+}

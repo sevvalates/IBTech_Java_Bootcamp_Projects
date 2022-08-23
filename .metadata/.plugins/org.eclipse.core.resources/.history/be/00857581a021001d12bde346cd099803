@@ -1,0 +1,15 @@
+package com.godoro.hw0105;
+
+import java.util.Scanner;
+
+import com.godoro.hw0103.Account;
+
+public class ScannerHw {
+	public static void main(String[] args) {
+	
+		Account account=new Account();
+
+		Scanner scanner=new Scanner(System.in);
+
+	}
+}

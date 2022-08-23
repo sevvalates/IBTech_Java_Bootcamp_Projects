@@ -1,0 +1,11 @@
+package com.godoro.compositon;
+
+public class Test {
+	public static void main(String[] args) {
+		
+		School schoolA=new School(801,"Godoro Universitesi");
+		
+		Student student1=new Student(481,"Teoman Alpay",46.7);
+		
+	}
+}

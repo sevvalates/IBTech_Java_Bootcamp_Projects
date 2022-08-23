@@ -1,0 +1,18 @@
+package com.godoro.compositon;
+
+import java.util.List;
+
+public class Test {
+	public static void main(String[] args) {
+		
+		School schoolA=new School(801,"Godoro Universitesi");
+		List<Student> studentList=new ArrayList<>();
+		
+		Student student1=new Student(481,"Teoman Alpay",46.7);
+		student1.setSchool(schoolA);
+		studentList.add(student1);
+		schoolA.setStudentList(studentList);
+	
+	
+	}
+}

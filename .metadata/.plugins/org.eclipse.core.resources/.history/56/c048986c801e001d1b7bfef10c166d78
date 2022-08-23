@@ -1,0 +1,8 @@
+package com.godoro.sports;
+
+public class League {
+	
+	
+	private List<Team> teamList;
+
+}

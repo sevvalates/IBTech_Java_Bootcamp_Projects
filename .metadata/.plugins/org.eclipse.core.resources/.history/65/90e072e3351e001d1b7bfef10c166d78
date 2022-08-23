@@ -1,0 +1,11 @@
+package com.godoro.hw02;
+
+public class CustomerTest1 {
+	public static void main(String[] args) {
+		Customer customer =new Customer();
+		customer.setCustomerId(501);
+		customer.setCustomerName("Neset Ertas");
+		customer.setSalesCustomer(4350);
+		
+	}
+}

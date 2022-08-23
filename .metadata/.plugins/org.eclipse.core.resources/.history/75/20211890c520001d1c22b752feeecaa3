@@ -1,0 +1,10 @@
+package com.godoro.hw0101;
+
+public class Employee extends Person{
+	
+	private long employeeId;
+	
+	private double monthlySalary;
+	
+	
+}

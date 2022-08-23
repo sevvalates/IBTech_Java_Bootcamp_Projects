@@ -1,0 +1,8 @@
+package com.godoro.inheritance;
+
+public class Supplier extends Person {
+	
+	private long supplierId;
+	
+	private double totalCrebit;
+}

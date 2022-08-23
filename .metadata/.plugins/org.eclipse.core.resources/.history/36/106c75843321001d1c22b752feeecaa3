@@ -1,0 +1,7 @@
+package com.godoro.hw0102;
+
+public class FunctionDrawer {
+	
+	void draw(MathFunction function, double x1, double x1, int n)
+
+}

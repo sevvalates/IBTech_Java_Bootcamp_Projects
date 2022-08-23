@@ -1,0 +1,16 @@
+package com.godoro.inheritance;
+
+public class Supplier extends Person {
+	
+	private long supplierId;
+	
+	private double totalCrebit;
+
+	public Supplier(String firstName, String lastName, long supplierId, double totalCrebit) {
+		super(firstName, lastName);
+		this.supplierId = supplierId;
+		this.totalCrebit = totalCrebit;
+	}
+	
+	
+}

@@ -1,0 +1,8 @@
+package com.godoro.statics;
+
+public class BankAccount {
+	
+	private double investment;
+	
+
+}

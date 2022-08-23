@@ -1,0 +1,11 @@
+package com.godoro.sports;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		
+		Team teamA=new Team(801,"Godoro Spor");
+		
+	}
+
+}

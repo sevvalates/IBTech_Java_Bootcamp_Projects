@@ -1,0 +1,23 @@
+package com.godoro.geometry;
+
+public class Rectangle {
+
+	int width; //field
+	int height;
+	
+	Rectangle(int width,int height){ //constructor
+		this.width=width;
+		this.height=height;
+	}
+	Rectangle(){
+		this(1,1);
+	}
+
+	int getArea() {  //method
+		return width*height;
+	}
+	int getPerimeter() {
+		return 2*(width+height);
+	}
+
+}

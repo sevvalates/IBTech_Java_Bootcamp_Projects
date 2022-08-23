@@ -1,0 +1,11 @@
+package com.godoro.hw0102;
+
+public class SinusoidalPolynomial implements MathFunction{
+
+	@Override
+	public double evaluate(double x) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

@@ -1,0 +1,7 @@
+package com.godoro.hw02;
+
+public class CustomerTest1 {
+	public static void main(String[] args) {
+		
+	}
+}
