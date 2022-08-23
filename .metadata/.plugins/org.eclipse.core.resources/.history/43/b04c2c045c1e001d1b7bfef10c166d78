@@ -1,7 +1,0 @@
-package com.godoro.collections;
-
-public class ProductsTest {
-	public static void main(String[] args) {
-	
-	}
-}

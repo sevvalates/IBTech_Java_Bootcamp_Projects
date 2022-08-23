@@ -1,8 +1,0 @@
-package com.godoro.interfaces;
-
-public interface Flyable {
-	
-	public void fly();
-	void land();
-
-}

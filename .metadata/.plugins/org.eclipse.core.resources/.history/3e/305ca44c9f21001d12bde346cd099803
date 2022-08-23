@@ -1,8 +1,0 @@
-package com.godoro.hw0104;
-
-public class AccountConverterTest {
-
-	public static void main(String[] args) {
-		
-	}
-}

@@ -1,7 +1,0 @@
-package com.godoro.collections;
-
-public class MapTest {
-	public static void main(String[] args) {
-		Map<String,String> countryMap=new HashMap<>();
-	} 
-}
