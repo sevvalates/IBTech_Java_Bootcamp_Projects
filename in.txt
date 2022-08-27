@@ -1,0 +1,4 @@
+Spring Boot
+Jakarta EE
+ORM && JPA
+MVC & JSF
