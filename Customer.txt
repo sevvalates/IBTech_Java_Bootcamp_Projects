@@ -1,0 +1,3 @@
+601;Cem Karaca;6540.0
+602;Baris Manco;7645.0
+603;Fikret Kizilok;3450.0
