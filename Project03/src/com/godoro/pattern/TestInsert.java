@@ -13,6 +13,7 @@ public class TestInsert {
 			}else {
 				System.out.print("Sokulamadi.");
 			}
+			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
