@@ -5,7 +5,7 @@ public class TestFind {
 
 		try {
 			CustomerManager customerManager=new CustomerManager();
-			long customerId=2;
+			long customerId=1;
 			Customer customer =customerManager.find(customerId);
 			
 			if(customer!=null) {
